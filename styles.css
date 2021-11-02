@@ -14,7 +14,7 @@ main {
 }
 
 .stadium-list {
-    width: 25%;
+    width: 45%;
     height: 100vh;
     overflow: auto;
     background: whitesmoke;
@@ -26,9 +26,8 @@ main {
 }
 
 .stadium-list .heading {
-/*     background: crimson; */
-/*     color: #fff; */
-    color: black;
+    background: crimson;
+    color: #fff;
 }
 
 .stadium-list .heading h2 {
