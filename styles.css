@@ -26,8 +26,9 @@ main {
 }
 
 .stadium-list .heading {
-    background: crimson;
-    color: #fff;
+/*     background: crimson; */
+/*     color: #fff; */
+    color: black;
 }
 
 .stadium-list .heading h2 {
